@@ -57,10 +57,10 @@ spec:
 ```
 
 ### Скрин подов из консоли
-<img src=''>
+<img src='https://i.postimg.cc/kG9RK2bz/1.jpg'>
 
 ### Скрин подов в дашборде
-<img src=''>
+<img src='https://i.postimg.cc/pXGn7X8b/photo-2022-01-11-14-21-10.jpg'>
 
 ### Обзор кластера
-[Линк](link here)
+[Линк](https://drive.google.com/file/d/1qP1K7yiw3l-7hGbWTi-wVZ0UnaeOtkAM/view?usp=sharing)
